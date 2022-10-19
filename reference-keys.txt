@@ -1,0 +1,12 @@
+eficácia
+o-indicador
+plot
+detalhamento-do-indicador
+indicador-de-eficiência
+o-indicador-1
+plot-1
+detalhamento-do-indicador-1
+indicador-de-efetividade
+o-indicador-2
+plot-2
+detalhamento-do-indicador-2
